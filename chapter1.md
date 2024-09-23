@@ -8,8 +8,6 @@ $$
 x^2 
 $$ 
 
-
 \begin{equation} 
-  f\left(k\right) = \binom{n}{k} p^k\left(1-p\right)^{n-k}
-  \label{eq:binom}
+  f\left(k\right) = \binom{n}{k} p^k\left(1-p\right)^{n-k} \label{eq:binom}
 \end{equation}
