@@ -4,4 +4,4 @@
 
 Las EDPs aparecen en ..
 
-$$ x^2 $$
+$$ x^2 $$ {#eq:1}
