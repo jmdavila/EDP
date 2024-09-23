@@ -8,5 +8,3 @@ $$
 x^2 
 $$ 
 
-Aquí añado una ecuación inlinea como esta $E=mc^2$, que nadie se espante... 
-
